@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Alberto Rodrigues, estudante de Tecnologia em Análise e Desenvolvimento de Sistemas. 👋
 
 - 🔭 Formado em Gestão de Tecnologia da Informação.
-- 🌱 Estudando Java, Python, HTML, CSS, JavaScript.
+- 📕 Estudando Java, Python, HTML, CSS, JavaScript.
 - 📫 Fale comigo: alberto_januario@hotmail.com
 <div align="center">
   <a href="https://github.com/albertorodrigu">
